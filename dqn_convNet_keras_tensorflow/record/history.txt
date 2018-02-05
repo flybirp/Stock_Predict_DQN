@@ -1,0 +1,3 @@
+('----episode----', 0, '   totalrewards:', -5373.079, 'holds:', 124, 'buys:', 147, 'sells:', 134, 'mem size:', 405)
+('----episode----', 1, '   totalrewards:', 74694.379, 'holds:', 84, 'buys:', 79, 'sells:', 88, 'mem size:', 656)
+('----episode----', 2, '   totalrewards:', 11155.9409, 'holds:', 122, 'buys:', 164, 'sells:', 119, 'mem size:', 1061)
